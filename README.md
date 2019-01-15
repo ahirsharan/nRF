@@ -1,2 +1,2 @@
 # nRF
-#This is a project on Image Transission through nRF using Arduino Micro Controller.
+#This is a project on Image Transmission through nRF using Arduino Micro Controller.
