@@ -1,4 +1,4 @@
-## Grayscale Image Transmission via nRF
+# Grayscale Image Transmission via nRF
 
 ## Components Required:
   * nRF modules
